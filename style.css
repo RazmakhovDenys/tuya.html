@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(24, 97, 12, 0.63);
+}
+
+header p{
+    color: #000;
+text-align: center;
+font-family: cursive;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;   
+}
+
+header{
+    background-color: rgba(16, 116, 0, 0.88);;
+}
+
+.m1{
+    border: 1px solid rgb(211, 198, 198);;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:black;
+    color: rgb(211, 198, 198);
+}
+
+nav a{ 
+   border: 1px solid black;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:rgb(211, 198, 198);
+    color: black; 
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 12px;
+height: 15px;
+}
+
+p {
+    color: #000;
+font-family: cursive;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+h1 {
+    color: #000;
+text-align: center;
+font-family: cursive;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-family: cursive;
+}
+
+footer {
+    background: #1B4D09;
+    color: aliceblue;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+div img{
+    float: right;
+    width: 120px;
+    height: 120px;
+    padding-right: 15px;
+}
