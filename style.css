@@ -57,14 +57,15 @@ line-height: normal;
 text-decoration-line: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #00,;
+h1, h2, h3 {
+    color: #000;
 text-align: center;
 font-family: cursive;
 font-size: 40px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+
 }
 
 a {
@@ -87,4 +88,15 @@ div img{
     width: 120px;
     height: 120px;
     padding-right: 15px;
+}
+
+.landdisain {
+    float: left;
+    width: 200px;
+    height: 400px;
+}
+
+.landdisain img {
+    width: 187px;
+    height: 400px;
 }
